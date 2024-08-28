@@ -1,8 +1,3 @@
-Here’s a simple `README.md` file for your PHP assessment project that includes an overview of the project, features, installation steps, and usage instructions.
-
-### `README.md`
-
-```markdown
 # PHP Assessment Project
 
 This is a simple PHP-based assessment project designed for educational purposes. The project includes two roles: Teacher and Student. Teachers can create and manage quizzes, while students can take quizzes and view their results.
@@ -113,6 +108,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Contact
 
 For any questions or feedback, please contact `syedasgarahmed11@gmail.com`.
-
-```
-
