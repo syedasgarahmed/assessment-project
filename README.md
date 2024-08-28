@@ -116,8 +116,3 @@ For any questions or feedback, please contact `syedasgarahmed11@gmail.com`.
 
 ```
 
-### Additional Notes
-
-- **Database File**: Ensure you have a `database.sql` file that creates necessary tables and inserts default user data. This should include tables for `users`, `quizzes`, `questions`, and `results`.
-- **Security**: The `README.md` assumes the developer knows the importance of securing their application in a production environment, including hashing passwords and securing database connections.
-- **Customization**: Update the repository URL, database paths, contact information, and other placeholders with your specific details before distributing the `README.md`.
